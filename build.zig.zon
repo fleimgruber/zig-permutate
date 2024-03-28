@@ -1,7 +1,5 @@
 .{
     .name = "zig-permutate",
     .version = "0.1.0",
-    .paths = .{
-        ".",
-    },
+    .paths = .{ "./src", "./build.zig", "./build.zig.zon" },
 }
